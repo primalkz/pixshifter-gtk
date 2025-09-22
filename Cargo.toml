@@ -1,0 +1,10 @@
+[package]
+name = "pixelshift-gtk"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk4 = { version = "0.9", package = "gtk4" }
+glib = "0.20"
+gio = "0.20"
+
